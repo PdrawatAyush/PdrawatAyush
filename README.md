@@ -8,6 +8,8 @@ Backend & ML engineer working on **data protection**: PII detection, DLP and LLM
 - 🎯 Open to backend, ML and AI engineer roles
 
 ### Featured
+**[image-rag-api](https://github.com/PdrawatAyush/image-rag-api)**: Ask questions about photos of receipts and documents. OCR, Aadhaar/PAN masking before storage, SQLite + ChromaDB, hybrid search.
+
 **[document-qa-api](https://github.com/PdrawatAyush/document-qa-api)**: FastAPI RAG service. Upload documents, ask questions, get answers cited back to the source. JWT auth with rotating refresh tokens, ChromaDB, sentence-transformers, pytest, Docker.
 
 ### Stack
